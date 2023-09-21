@@ -145,7 +145,8 @@ body{
 }
 
 .thankyou_message{
-  margin-left: 400px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 footer {
