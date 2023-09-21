@@ -1,0 +1,9 @@
+body{
+	background: url("../img/8.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
+	overflow-y: scroll;
+	
+}
